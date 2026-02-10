@@ -1,2 +1,2 @@
 # R-means
-Python implementation of R-means algorithm
+>This repository includes a Python implementation of the R-means algorithm.
